@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "useeffect",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "demo": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.4.0"
+    "useeffect": "file:"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
