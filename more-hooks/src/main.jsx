@@ -5,7 +5,7 @@ import UseMemo from './UseMemo.jsx'
 import UseCallback from './UseCallback.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <UseMemo />
-    {/* <UseCallback /> */}
+    {/* <UseMemo /> */}
+    <UseCallback />
   </StrictMode>,
 )
